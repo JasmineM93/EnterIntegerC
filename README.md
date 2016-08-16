@@ -12,4 +12,4 @@ int main(){
       printf("You entered %d\n", userNum);
       
       return 0;
-      }
+}
